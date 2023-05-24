@@ -1,0 +1,17 @@
+For DecisionTreeModel with hyperparameters 5, the accuracy is 0.8720159481684525
+For DecisionTreeModel with hyperparameters 10, the accuracy is 0.8832793421380514
+For RandomForestModel with hyperparameters (100, 5), the accuracy is 0.8853725392474459
+For RandomForestModel with hyperparameters (200, 10), the accuracy is 0.9021679541490157
+For GradientBoostingModel with hyperparameters (100, 0.1), the accuracy is 0.9021679541490157
+For GradientBoostingModel with hyperparameters (200, 0.2), the accuracy is 0.9070022427111887
+For NaiveBayesModel with hyperparameters N/A, the accuracy is 0.8295539496635933
+For LogisticRegressionModel with hyperparameters ('l1', 'liblinear'), the accuracy is 0.8788437577871916
+For LogisticRegressionModel with hyperparameters ('l2', 'liblinear'), the accuracy is 0.8789434338400199
+For SVMModel with hyperparameters {'C': 1, 'kernel': 'linear'}, the accuracy is 0.8624813153961136
+For SVMModel with hyperparameters {'C': 0.5, 'kernel': 'linear'}, the accuracy is 0.8619830592924763
+For KNNModel with hyperparameters 3, the accuracy is 0.880588088711687
+For KNNModel with hyperparameters 5, the accuracy is 0.8832793421380514
+For AdaBoostModel with hyperparameters {'n_estimators': 50, 'learning_rate': 1.0}, the accuracy is 0.8887116870171942
+For AdaBoostModel with hyperparameters {'n_estimators': 100, 'learning_rate': 0.5}, the accuracy is 0.8914029404435584
+For ExtraTreeModel with hyperparameters {'n_estimators': 100, 'max_depth': None}, the accuracy is 0.9006229753301769
+For ExtraTreeModel with hyperparameters {'n_estimators': 200, 'max_depth': 10}, the accuracy is 0.8924993770246699
